@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/studylink/static/css/main.12870a49.chunk.css",
-    "main.js": "/studylink/static/js/main.2314c8d0.chunk.js",
-    "main.js.map": "/studylink/static/js/main.2314c8d0.chunk.js.map",
+    "main.js": "/studylink/static/js/main.b622311e.chunk.js",
+    "main.js.map": "/studylink/static/js/main.b622311e.chunk.js.map",
     "runtime-main.js": "/studylink/static/js/runtime-main.de76ae17.js",
     "runtime-main.js.map": "/studylink/static/js/runtime-main.de76ae17.js.map",
     "static/js/2.c4fefacf.chunk.js": "/studylink/static/js/2.c4fefacf.chunk.js",
@@ -10,6 +10,7 @@
     "index.html": "/studylink/index.html",
     "static/css/main.12870a49.chunk.css.map": "/studylink/static/css/main.12870a49.chunk.css.map",
     "static/js/2.c4fefacf.chunk.js.LICENSE.txt": "/studylink/static/js/2.c4fefacf.chunk.js.LICENSE.txt",
+    "static/media/Poster.fb3f0af7.png": "/studylink/static/media/Poster.fb3f0af7.png",
     "static/media/exam.83026aac.svg": "/studylink/static/media/exam.83026aac.svg",
     "static/media/graduation.eeed0c9d.svg": "/studylink/static/media/graduation.eeed0c9d.svg",
     "static/media/house.1df9522d.svg": "/studylink/static/media/house.1df9522d.svg",
@@ -19,6 +20,6 @@
     "static/js/runtime-main.de76ae17.js",
     "static/js/2.c4fefacf.chunk.js",
     "static/css/main.12870a49.chunk.css",
-    "static/js/main.2314c8d0.chunk.js"
+    "static/js/main.b622311e.chunk.js"
   ]
 }
